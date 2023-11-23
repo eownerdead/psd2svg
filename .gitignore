@@ -59,6 +59,10 @@ docs/_build/
 .DS_Store
 *~
 
+# Nix
+.direnv/
+result*
+
 # Other
 .pytest_cache
 tmp/
